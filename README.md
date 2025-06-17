@@ -38,8 +38,12 @@ import java.time.LocalDate;
 ❌ // horasProyecto1 = sc.nextInt();
 ✅ horasProyecto1 = sc.nextInt();
 
-📅 Fecha de Correción: 
+
+📅 Fecha de Correción
  ° 17 Junio 2025
+
+ 🧾 Tecnologías Usadas 
+  ° Chat Gpt para hacer el archivo Readme
 
  👨‍💻 Autor
  ° Geraldinne Jaramillo Avendaño
